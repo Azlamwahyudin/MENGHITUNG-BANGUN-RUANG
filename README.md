@@ -58,6 +58,74 @@ Menghitung luas permukaan dan volume bangun ruang
 
 4. Menghitung luas volume prisma segitiga
 
+- buat flowchart terlebih dahulu
+
+![Prisma 1](https://user-images.githubusercontent.com/93004934/140049633-42689a08-c3d0-40d8-bf7d-1d42efe2e6fc.png)
+
+- Run lalu masukkan angka yang ingin kita masukkan
+
+![prisma 2](https://user-images.githubusercontent.com/93004934/140049737-41810d35-06f8-4190-a9e5-52a250c6d741.png)
+
+- kemudian kita jalankan di vs code
+
+![prisma 3](https://user-images.githubusercontent.com/93004934/140049804-1505b08b-9f59-41f0-940a-f766c6ece311.png)
+
+- dan hasilnya sama 
+
+![prisma 4](https://user-images.githubusercontent.com/93004934/140049870-571ed896-44ae-4ebf-a178-3ca965c6077b.png)
+
+5. menghitung luas volume limas segitiga
+
+- seperti biasa membuat flowchart dulu
+
+![limas segitiga 1](https://user-images.githubusercontent.com/93004934/140050012-d34b738a-7b66-4904-9cfc-11baa0ba4f4d.png)
+
+- kita jalankan dengan angka kita sendiri
+
+![limas segitiga 2](https://user-images.githubusercontent.com/93004934/140050078-401d03a5-2a5a-4859-a4bf-81979b7bedd3.png)
+
+- kita buat programnya di vs code
+
+![limas segitiga 3](https://user-images.githubusercontent.com/93004934/140050224-73c40328-c5a3-4e2d-868c-8e4a07bf7061.png)
+
+- dan hasilnya sama dengan hasil dari flowchart di atas
+
+![limas segitiga 4](https://user-images.githubusercontent.com/93004934/140050441-8dc8c0b5-bb3f-4b72-845e-c191399a1d90.png)
+
+6. Menghitung luas volume Selinder(tabung)
+
+- buat flowchart
+
+![selinder 1](https://user-images.githubusercontent.com/93004934/140050600-3cd4c931-ea5d-49e4-aaaa-f64300971727.png)
+
+- kita Run lalu masukkan angka yang ingin kita masukkan
+
+![selinder 2](https://user-images.githubusercontent.com/93004934/140050692-369e81cc-fb7b-452d-b585-849ed42cd4a1.png)
+
+- kita buat program nya di vs code
+
+![selinder 3](https://user-images.githubusercontent.com/93004934/140050794-5f8b336c-18cb-408f-80eb-7dc848069da3.png)
+
+- dan hasilnya berhasil berjalan
+
+![selinder 4](https://user-images.githubusercontent.com/93004934/140050845-43258396-1733-4241-8b7f-cd9fa653ff6f.png)
+
+7. menghitung luas volume bangun kerucut
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
