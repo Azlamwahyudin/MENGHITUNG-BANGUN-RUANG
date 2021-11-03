@@ -112,7 +112,50 @@ Menghitung luas permukaan dan volume bangun ruang
 
 7. menghitung luas volume bangun kerucut
 
--
+- buat flowchart
+
+![kerucut 1](https://user-images.githubusercontent.com/93004934/140055448-c71f9a63-7063-4aee-8c0a-04f397815a30.png)
+
+- Run masukkan angka yang kita inginkan 
+
+![kerucut 2](https://user-images.githubusercontent.com/93004934/140055521-8ef052aa-4f42-419b-b6ff-35a13f1051c7.png)
+
+- Kemudian kita jalankan di vs code
+
+![kerucut 3](https://user-images.githubusercontent.com/93004934/140055599-18d40644-bbad-42c0-ba9b-f428410ff239.png)
+
+- dan hasilnya sama
+
+![kerucut 4](https://user-images.githubusercontent.com/93004934/140055677-0da2b060-8278-41ca-ad6b-0dbba225197f.png)
+
+8. menghitung luas volume lingkaran 
+
+- seperti biasa buat flowchart
+
+![lingkaran 1](https://user-images.githubusercontent.com/93004934/140055806-17f088bd-1164-42ee-af77-e65553e0d682.png)
+
+- kemudian run
+
+![lingkaran 2](https://user-images.githubusercontent.com/93004934/140055927-a63b77cb-1e53-4ea6-a3ba-aea2d65a877e.png)
+
+- kita jalankann pada vs code
+
+![lingkaran 3](https://user-images.githubusercontent.com/93004934/140055994-a8d14676-c059-4728-afb0-c5ab58797101.png)
+
+- dan hasil yang sama pun bisa kita dapatkan
+
+![lingkarn 4](https://user-images.githubusercontent.com/93004934/140056082-ad4ba8a0-3dec-4cca-970b-4af42bdbc2d3.png)
+
+SELSAI.
+
+
+
+
+
+
+
+
+
 
 
 
